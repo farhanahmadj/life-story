@@ -1,14 +1,15 @@
 hi how r u 
 hello man
-<<<<<<< HEAD
+
 hekeoej
 wat r u doing
 i will join school
-=======
+
 heloo kemo acho
->>>>>>> cdb8a4f69ccfa4e4025c09bb191819f489fc4303
+
 iuigISI
 adiuhdisd
 
 sgvdusigiudghiuwgh
 what is the matter .what is happening
+
